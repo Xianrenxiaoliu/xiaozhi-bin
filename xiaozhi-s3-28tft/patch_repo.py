@@ -26,6 +26,7 @@ CMAKE_BLOCK = """elseif(CONFIG_BOARD_TYPE_MY_S3_28TFT)
     set(BOARD_DIR "my-s3-28tft")
     set(BUILTIN_TEXT_FONT font_noto_sans_basic_20_4)
     set(BUILTIN_ICON_FONT font_material_symbols_20_4)
+    set(DEFAULT_EMOJI_COLLECTION noto-color-emoji_64)
 """
 
 
