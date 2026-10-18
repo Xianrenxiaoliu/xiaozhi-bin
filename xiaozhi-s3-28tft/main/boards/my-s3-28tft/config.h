@@ -40,7 +40,7 @@
 // 你这块 13 针模块没有引出 LCD 的 CS（板上直接拉低，永远选中），
 // 所以这里必须给 NC，让 esp_lcd 不要去找片选脚。
 // 如果你的屏其实是 14 针、带独立 CS 丝印，改成 GPIO_NUM_41 并把 CS 接到 41。
-#define DISPLAY_CS_PIN        GPIO_NUM_NC
+#define DISPLAY_CS_PIN        GPIO_NUM_41
 
 #define LCD_TYPE_ILI9341_SERIAL
 
