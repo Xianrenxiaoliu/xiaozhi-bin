@@ -24,12 +24,12 @@
 #define TAG "MyS3_28Tft"
 
 /**
- * ESP32-S3-DevKitC-1 (44pin, N16R8)
- *   + INMP441 (I2S 麦克风)
- *   + MAX98357A (I2S 功放)
+ * ESP32-S3-DevKitC-1 (44pin, N16R8) * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R...... * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP32-S3-DevKitC-1（44针，N16R8） * ESP......
+ *   + INMP441 (I2S 麦克风) *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风） *   + INMP441（I2S麦克风）*   + INMP441（I2S麦克风）
+ *   + MAX98357A (I2S 功放) *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放）...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   +*   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   +*   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *  ......*   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX983...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（...... *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放） *   + MAX98357A（I2S功放）
  *   + 2.8" ILI9341 240x320 SPI 屏 (XPT2046 电阻触摸)
  *
- * 屏幕只走显示；触摸用独立 GPIO 软件 SPI，点击 = 唤醒/打断对话。
+ * 屏幕只走显示；触摸用独立 GPIO 软件 SPI，点击 = 唤醒/打断对话。 * 屏幕仅用于显示；触摸功能通过独立的 GPIO 软件 SPI 实现，点击即唤醒/打断对话。
  */
 class MyS3_28TftBoard : public WifiBoard {
 private:
@@ -52,20 +52,20 @@ private:
                 pressed = true;
                 pressed_at_us = now;
 #if TOUCH_DEBUG_LOG
-                ESP_LOGI(TAG, "touch down at %d,%d (z=%u)", x, y, z);
+                ESP_LOGI(TAG, "touch down at %d,%d (z=%u)", x, y, z);ESP_LOGI(TAG, "在 %d,%d 处触地（z=%u）", x, y, z);
 #endif
             } else if (!down && pressed) {
-                pressed = false;
-                int64_t held_ms = (now - pressed_at_us) / 1000;
-                ESP_LOGI(TAG, "touch up, held %lld ms", held_ms);
+                pressed = false;                按下 = 假;
+                int64_t held_ms = (now - pressed_at_us) / 1000;int64_t 按住时间_ms = (当前时间 - 按下时间_us) / 1000;
+                ESP_LOGI(TAG, "touch up, held %lld ms", held_ms);ESP_LOGI(TAG, "触摸抬起，按住 %lld 毫秒", held_ms);
 
                 // 短按 = 唤醒 / 打断当前对话；长按 1.5s 以上不处理（留给以后做菜单）
                 if (held_ms < 1500) {
-                    Application::GetInstance().ToggleChatState();
+                    Application::GetInstance().ToggleChatState();                    应用程序::获取实例().切换聊天状态();
                 }
             }
 
-            vTaskDelay(pdMS_TO_TICKS(20));
+            vTaskDelay(pdMS_TO_TICKS(20));任务延时(将毫秒转换为滴答数(20));
         }
     }
 
@@ -73,7 +73,7 @@ private:
         touch_ = new Xpt2046Touch(TOUCH_SPI_CLK_PIN, TOUCH_SPI_CS_PIN,
                                   TOUCH_SPI_DIN_PIN, TOUCH_SPI_DOUT_PIN,
                                   TOUCH_IRQ_PIN);
-        touch_->SetScreenSize(DISPLAY_WIDTH, DISPLAY_HEIGHT);
+        touch_->SetScreenSize(DISPLAY_WIDTH, DISPLAY_HEIGHT);        touch_->设置屏幕大小(显示宽度, 显示高度);
         touch_->SetCalibration(200, 3800, 200, 3800);
         touch_->SetPressureThreshold(400);
 
@@ -83,7 +83,7 @@ private:
                 vTaskDelete(nullptr);
             },
             "touch", 4096, this, 3, nullptr);
-        ESP_LOGI(TAG, "XPT2046 touch started");
+        ESP_LOGI(TAG, "XPT2046 touch started");        ESP_LOGI(TAG, "XPT2046 触摸已启动"“XPT2046 触摸已启动”););
     }
 #endif
 
@@ -106,7 +106,7 @@ private:
         io_config.cs_gpio_num = DISPLAY_CS_PIN;
         io_config.dc_gpio_num = DISPLAY_DC_PIN;
         io_config.spi_mode = DISPLAY_SPI_MODE;
-        io_config.pclk_hz = 40 * 1000 * 1000;   // 花屏就降到 20MHz
+        io_config.pclk_hz = 20 * 1000 * 1000yclk_hz = 40 * 1000 * 1000;   // 花屏就降到 20MHz
         io_config.trans_queue_depth = 10;
         io_config.lcd_cmd_bits = 8;
         io_config.lcd_param_bits = 8;
@@ -126,9 +126,9 @@ private:
         esp_lcd_panel_disp_on_off(panel, true);
 
         display_ = new SpiLcdDisplay(panel_io, panel,
-                                     DISPLAY_WIDTH, DISPLAY_HEIGHT,
-                                     DISPLAY_OFFSET_X, DISPLAY_OFFSET_Y,
-                                     DISPLAY_MIRROR_X, DISPLAY_MIRROR_Y,
+                                     DISPLAY_WIDTH, DISPLAY_HEIGHT,                                     显示宽度、显示高度、
+                                     DISPLAY_OFFSET_X, DISPLAY_OFFSET_Y,                                     显示偏移X、显示偏移Y、
+                                     DISPLAY_MIRROR_X, DISPLAY_MIRROR_Y,                                     显示镜像X、显示镜像Y、
                                      DISPLAY_SWAP_XY);
     }
 
