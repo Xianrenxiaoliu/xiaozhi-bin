@@ -43,7 +43,8 @@ jobs:
           set -eux
           git clone --depth 1 "$XIAOZHI_REPO" xz
           cp -r "${{ steps.locate.outputs.BOARD_SRC }}" "xz/main/boards/${BOARD_NAME}"
-          python3 patch_repo.py xz
+          PATCH=$(find . -maxdepth 3 -name patch_repo.py | head -n 1)
+          python3 "$PATCH" xz
           echo "== 补丁检查（两行都要出现）=="
           grep -n "BOARD_TYPE_MY_S3_28TFT" xz/main/Kconfig.projbuild xz/main/CMakeLists.txt
 
