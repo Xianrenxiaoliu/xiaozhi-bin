@@ -48,7 +48,7 @@
 #define DISPLAY_WIDTH   320
 #define DISPLAY_HEIGHT  240
 #define DISPLAY_MIRROR_X true
-#define DISPLAY_MIRROR_Y false
+#define DISPLAY_MIRROR_Y true
 #define DISPLAY_SWAP_XY true
 #define DISPLAY_INVERT_COLOR false          // 颜色发"底片"就改成 true
 #define DISPLAY_RGB_ORDER  LCD_RGB_ELEMENT_ORDER_BGR
